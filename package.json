@@ -1,0 +1,12 @@
+{
+  "name": "practice-demo-node",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {},
+  "scripts": {
+    "start": "node app.js"
+  },
+  "devDependencies": {
+    "express": "^4.17.1"
+  }
+}
